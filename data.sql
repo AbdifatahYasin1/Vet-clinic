@@ -7,23 +7,18 @@ INSERT INTO animals (
         neutered,
         escape_attempts
     )
-
-    values (
-        'Agumon',
-        '2020-02-03',
-        10.23,
-        true,
-        0
-    ),
-     ('Gabumon', '2018-11-15', 8.00, TRUE, 2),
-        ('Pikachu', '2021-01-07', 6.00, FALSE, 3),
-        ('Devimon', '2017-05-12', 11.00, TRUE, 1),
-        ('Plantmon', '2019-05-05', 5.7, TRUE, 2),
-        ('Charmander', '2020-06-08', 8.10, FALSE, 3),
-        ('Angemon', '2015-02-12', 15.00, TRUE, 1),
-        ('Boarmon', '2016-06-07', 20.00, TRUE, 4),
-        ('Blossom', '2017-10-13', 17.00, FALSE, 2),
-        ('Ditto', '2018-01-21', 4.00, TRUE, 1),
+VALUES ('Agumon', '2020-02-03', 10.23, TRUE, 0),
+    ('Gabumon', '2018-11-15', 8.00, TRUE, 2),
+    ('Pikachu', '2021-01-07', 15.04, FALSE, 1),
+    ('Devimon', '2017-05-12', 11.00, TRUE, 5),
+    ('Charmander', '2020-02-08', -11.00, FALSE, 0),
+    ('Plantmon', '2021-11-15', -5.70, TRUE, 2),
+    ('Squirtle', '1993-04-02', -12.13, FALSE, 3),
+    ('Angemon', '2005-06-12', -45.00, TRUE, 0),
+    ('Boarmon', '2005-06-07', 20.40, TRUE, 7),
+    ('Blossom', '1998-09-13', 17.00, TRUE, 3),
+    ('Ditto', '2022-05-14', 22.00, TRUE, 4);
+       
        
 
     
