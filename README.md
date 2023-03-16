@@ -90,8 +90,6 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-
-
 - Open the command prompt/terminal and navigate to the created directory.
 
 - On the terminal run this command git clone `https://github.com/AbdifatahYasin1/Vet-clinic.git`
@@ -127,6 +125,9 @@ Cloning steps:
 - LinkedIn: [Cabdifataax Yaasiin](https://www.linkedin.com/in/cabdifataax-yaasiin-69977019a/)
 
 
+
+
+
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
@@ -139,11 +140,11 @@ Feel free to check the [issues page](../../issues/).
 
 <!-- SUPPORT -->
 
-## ⭐️ Show your support <a name="support"></a>
+## Show your support
 
-> Write a message to encourage readers to support your project
+Give a ⭐️ if you like this project!
 
-If you like this project...
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
